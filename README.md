@@ -1,2 +1,2 @@
-# NBA-Analytics
-Home for NBA Analytics
+# NBA Analytics
+Home of NBA Analytics
