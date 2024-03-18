@@ -1,2 +1,2 @@
-# NBA Analytics
-Home of NBA Analytics
+# Court Chronicle
+Home of basketball analytics
