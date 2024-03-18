@@ -1,4 +1,5 @@
 title: NBA Analytics
 logo: \Photos\Basketball-Data-Analysis-Logo.png
 description: Hi my name is Robert and I am a data analyst who also loves basketball. I put together this collection of my deep dives into the statistics and analytics that tell a secret story about the NBA and global basketball as we know it. Don't be shy, come explore!
-
+remote_theme: pages-themes/tactile@v0.2.0
+plugins: - jekyll-remote-theme
