@@ -1,0 +1,85 @@
+/* Reset CSS */
+/* Apply a basic reset to remove default browser styles */
+html, body, div, span, h1, h2, h3, h4, h5, h6, p, a, img, ul, ol, li, table, tr, td, th, form, input, button, textarea, header, footer, nav, section {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%; /* Set base font size */
+    vertical-align: baseline;
+    font-family: Arial, sans-serif; /* Choose your preferred font stack */
+    box-sizing: border-box; /* Apply box-sizing: border-box to all elements */
+}
+
+/* Global Styles */
+/* Add global styles to elements */
+body {
+    background-color: #f0f0f0; /* Set background color */ /* Option: #f0f0f0 (light gray), #ffffff (white), etc. */
+    color: #333; /* Set text color */ /* Option: #333 (dark gray), #000000 (black), etc. */
+    font-size: 16px; /* Set default font size */ /* Option: 16px (default), 18px, 14px, etc. */
+    line-height: 1.6; /* Set default line height */
+    font-weight: normal; /* Set default font weight */ /* Option: normal (default), bold, etc. */
+}
+
+a {
+    color: #007bff; /* Set link color */ /* Option: #007bff (blue), #ff4500 (orange), etc. */
+    text-decoration: none; /* Remove underline */
+}
+
+a:hover {
+    text-decoration: underline; /* Add underline on hover */
+}
+
+/* Container Styles */
+.container {
+    max-width: 1200px; /* Set maximum width for the container */ /* Option: 1200px (default), 960px, 1400px, etc. */
+    margin: 0 auto; /* Center the container */
+    padding: 0 20px; /* Add padding to the container */ /* Option: 0 20px (default), 0 30px, etc. */
+}
+
+/* Header Styles */
+header {
+    background-color: #ffffff; /* Set background color for the header */ /* Option: #ffffff (white), #f0f0f0 (light gray), etc. */
+    padding: 20px 0; /* Add padding to the header */ /* Option: 20px (default), 30px, etc. */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add shadow to the header */
+}
+
+/* Footer Styles */
+footer {
+    background-color: #f0f0f0; /* Set background color for the footer */ /* Option: #f0f0f0 (light gray), #ffffff (white), etc. */
+    padding: 20px 0; /* Add padding to the footer */ /* Option: 20px (default), 30px, etc. */
+}
+
+/* Navigation Styles */
+nav {
+    display: flex; /* Use flexbox for navigation */
+    justify-content: center; /* Center align navigation items */
+}
+
+nav ul {
+    list-style: none; /* Remove default list styles */
+}
+
+nav ul li {
+    margin-right: 20px; /* Add spacing between navigation items */ /* Option: 20px (default), 15px, etc. */
+}
+
+/* Main Content Styles */
+.main-content {
+    padding: 20px 0; /* Add padding to the main content */ /* Option: 20px (default), 30px, etc. */
+}
+
+/* Example Button Styles */
+.button {
+    display: inline-block; /* Display as inline-block */
+    padding: 10px 20px; /* Add padding to the button */ /* Option: 10px 20px (default), 15px 25px, etc. */
+    background-color: #007bff; /* Set background color for the button */ /* Option: #007bff (blue), #ff4500 (orange), etc. */
+    color: #ffffff; /* Set text color for the button */ /* Option: #ffffff (white), #000000 (black), etc. */
+    border: none; /* Remove border */
+    border-radius: 5px; /* Add border-radius */ /* Option: 5px (default), 10px, etc. */
+    cursor: pointer; /* Change cursor to pointer on hover */
+}
+
+.button:hover {
+    background-color: #0056b3; /* Change background color on hover */ /* Option: #0056b3 (dark blue), #ff8c00 (dark orange), etc. */
+}
