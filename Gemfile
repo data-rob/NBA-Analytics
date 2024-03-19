@@ -5,3 +5,4 @@ gem 'github-pages', group: :jekyll_plugins
 
 # Add other gems as needed
 # gem 'another_gem'
+gem 'webrick'
