@@ -29,12 +29,12 @@ But is there something that they all have in common? Are some positions better a
 Does height and weight affect how good someone is at shooting? All of these questions are explored and answered 
 in this analysis.
 
-[View Project 2](link_to_project)
+[View Project 2](https://public.tableau.com/app/profile/robert.riemer/viz/CareerFoundryProject6_73/PROJECT)
 
-## Project 3: Project Name
+## Project in Progress
 
-![Project Thumbnail](link_to_thumbnail_image)
+![Project Thumbnail](assets/images/project_in_progress_edited.jpg)
 
-Description of Project 3 goes here. Ut posuere felis dapibus. Integer ac ultricies justo, nec euismod purus. 
+#Next Projcet Coming Soon 
 
-[View Project 3](link_to_project)
+[View Project 3](https://www.youtube.com/watch?v=q6EoRBvdVPQ&ab_channel=revergo)
