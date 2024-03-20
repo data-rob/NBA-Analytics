@@ -1,6 +1,6 @@
 # **Court Chronicle**
 
-#### An NBA Draft Analysis
+# An NBA Draft Analysis
 
 ![Project Thumbnail](assets/images/nba-draft.jpeg)
 
@@ -16,7 +16,7 @@ future NBA prospects where college may not be the top option anymore.
 
 [View NBA Draft Analysis](https://drive.google.com/file/d/19cYosz2xPq3nBMrmeGpep4MNnxDNWR7n/view?usp=sharing)
 
-#### What makes a Great Shooter?
+# What makes a Great Shooter?
 
 ![Project Thumbnail](assets/images/rayallengame6_edited.jpg)
 
@@ -31,7 +31,7 @@ in this analysis.
 
 [View Project 2](https://public.tableau.com/app/profile/robert.riemer/viz/CareerFoundryProject6_73/PROJECT)
 
-#### Project in Progress
+# Project in Progress
 
 ![Project Thumbnail](assets/images/project_in_progress_edited.jpg)
 
