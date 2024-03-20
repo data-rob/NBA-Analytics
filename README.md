@@ -16,11 +16,18 @@ future NBA prospects where college may not be the top option anymore.
 
 [View NBA Draft Analysis](https://drive.google.com/file/d/19cYosz2xPq3nBMrmeGpep4MNnxDNWR7n/view?usp=sharing)
 
-## Project 2: Project Name
+## What makes a Great Shooter?
 
-![Project Thumbnail](link_to_thumbnail_image)
+![Project Thumbnail](assets/images/rayallengame6_edited.jpg)
 
-Description of Project 2 goes here. Nulla convallis libero et lorem fringilla, ut posuere felis dapibus. Integer ac ultricies justo. 
+# Are NBA-Level Shooters born... or are they made?
+
+Think of some of the greatest players in NBA history to ever shoot the basketball. You may have thought of 
+the great ones like Ray Allen, Reggie Miller, and of course Steph Curry. All of these players are historically
+known for their consistent shooting form along with their ability to put the ball in the basket.
+But is there something that they all have in common? Are some positions better at shooting than others?
+Does height and weight affect how good someone is at shooting? All of these questions are explored and answered 
+in this analysis.
 
 [View Project 2](link_to_project)
 
