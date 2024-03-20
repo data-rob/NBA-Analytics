@@ -1,12 +1,12 @@
 # Court Chronicle
 
-## Project 1: Project Name
+## An NBA Draft Analysis
 
 ![Project Thumbnail](assets/images/nba-draft.jpeg)
 
 Is this the beginning of the end of the NCAA? 
 
-[View Project 1](link_to_project)
+[View NBA Draft Analysis](https://drive.google.com/file/d/19cYosz2xPq3nBMrmeGpep4MNnxDNWR7n/view?usp=sharing)
 
 ## Project 2: Project Name
 
