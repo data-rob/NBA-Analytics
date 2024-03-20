@@ -2,7 +2,7 @@
 
 ## Project 1: Project Name
 
-![Project Thumbnail](\assets\images\nba-draft.jpeg)
+![Project Thumbnail](assets/images/nba-draft.jpeg)
 
 Description of Project 1 goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero et lorem fringilla, ut posuere felis dapibus. 
 
