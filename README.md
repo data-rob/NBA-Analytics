@@ -35,6 +35,6 @@ in this analysis.
 
 ![Project Thumbnail](assets/images/project_in_progress_edited.jpg)
 
-## **Next Projcet Coming Soon** 
+## **Next Project Coming Soon** 
 
 [View Project 3](https://www.youtube.com/watch?v=q6EoRBvdVPQ&ab_channel=revergo)
