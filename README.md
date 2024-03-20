@@ -1,4 +1,4 @@
-# My Projects
+# Court Chronicle
 
 ## Project 1: Project Name
 
