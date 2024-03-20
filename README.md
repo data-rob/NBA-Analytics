@@ -4,7 +4,7 @@
 
 ![Project Thumbnail](assets/images/nba-draft.jpeg)
 
-# **Is this the beginning of the end of the NCAA?**
+# **Is this the Beginning of the End of the NCAA?**
 
 The 2023-24 NBA Draft set some new records, with a staggering 242 prospects
 looking to enter the league. But what's truly groundbreaking is the
