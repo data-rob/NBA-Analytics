@@ -4,7 +4,7 @@
 
 ![Project Thumbnail](assets/images/nba-draft.jpeg)
 
-Description of Project 1 goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero et lorem fringilla, ut posuere felis dapibus. 
+Is this the beginning of the end of the NCAA? 
 
 [View Project 1](link_to_project)
 
