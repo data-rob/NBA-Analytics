@@ -31,6 +31,17 @@ in this analysis.
 
 [View Project 2](https://public.tableau.com/app/profile/robert.riemer/viz/CareerFoundryProject6_73/PROJECT)
 
+# NBA 2023-24 Season Statistics Tracker
+
+![Project Thumbnail](assets/images/nba23_24stattracker_edited.jpg)
+
+## **Every Player. Every Team.** 
+
+The 2023-24 NBA Season came to a close on April 14th, 2024. There were many historic regular season performances this year
+coming from both superstars and some fresh faces in the league as well. 
+
+[View Project 3](https://public.tableau.com/views/BostonCeltics2023-2024SeasonStatTracker/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
 # Project in Progress
 
 ![Project Thumbnail](assets/images/project_in_progress_edited.jpg)
@@ -38,3 +49,4 @@ in this analysis.
 ## **Next Project Coming Soon** 
 
 [View Project 3](https://www.youtube.com/watch?v=q6EoRBvdVPQ&ab_channel=revergo)
+
